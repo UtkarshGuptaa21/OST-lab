@@ -1,2 +1,1 @@
-# OST-lab
-Operating system lab repository
+# My First Git Repo
